@@ -6,5 +6,5 @@ setup(
     name='ecl_gym',
     author_email='lemikhovalex@gmail.com',
     description='Package with gym-like env for petroleum reservoir simulation',
-    packages=['ecl_gym', 'ecl_gym/envs']
+    packages=['ecl_gym', 'ecl_gym/envs'],
 )
