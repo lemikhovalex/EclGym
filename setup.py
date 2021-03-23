@@ -1,5 +1,6 @@
 from setuptools import setup
 import pkg_resources
+from setuptools import find_namespace_packages
 
 setup(
     name='ecl_gym',
