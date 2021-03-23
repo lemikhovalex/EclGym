@@ -9,7 +9,7 @@ import numpy as np
 from random import randint
 from ecl.summary import EclSum
 from ecl.eclfile import EclFile
-from ecl_gym.envs.read_data_file import read_data
+from .read_data_file import read_data
 
 # User sys variables
 ## Path to a simulator exe file
